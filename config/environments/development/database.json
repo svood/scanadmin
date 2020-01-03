@@ -1,0 +1,19 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "mongoose",
+      "settings": {
+        "database": "scanadmin",
+        "host": "31.131.24.160",
+        "srv": false,
+        "port": 27017,
+        "username": "shahbogdan",
+        "password": "shah601160"
+      },
+      "options": {
+        "authenticationDatabase": "admin"
+      }
+    }
+  }
+}
