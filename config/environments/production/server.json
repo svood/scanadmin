@@ -12,6 +12,3 @@
     "autoOpen": false
   }
 }
-#!/bin/bash
-cd /path/to/project
-npm start
