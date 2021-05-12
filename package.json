@@ -15,7 +15,7 @@
     "@ckeditor/ckeditor5-react": "^2.0.0",
     "@ckeditor/ckeditor5-upload": "^16.0.0",
     "ckeditor-build-with-simple-upload-provider-strapi": "^1.0.7",
-    "strapi": "3.0.0-beta.18.3",
+    "strapi": "3.2.5",
     "strapi-admin": "3.0.0-beta.18.3",
     "strapi-connector-mongoose": "3.0.0-beta.18.3",
     "strapi-plugin-content-manager": "3.0.0-beta.18.3",
